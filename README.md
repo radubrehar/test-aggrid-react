@@ -5,7 +5,9 @@ This is a comparison between AG Grid and Infinite Table React DataGrid. Both are
 Click thumbnail below to watch comparison video:
 
 <div align="center">
+
 [![AG Grid vs Infinite Table](https://img.youtube.com/vi/3FZG6Eia27Y/0.jpg)](https://www.youtube.com/watch?v=3FZG6Eia27Y)
+
 </div>
 
 ## Links
