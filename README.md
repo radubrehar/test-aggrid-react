@@ -12,7 +12,7 @@ Click thumbnail below to watch comparison video:
 
 ## Links
 
-For the **Infinite Table** example repo, see https://github.com/radubrehar/test-aggrid-react
+For the **Infinite Table** example repo, see https://github.com/radubrehar/test-infinite-table
 
 NPM links:
 
